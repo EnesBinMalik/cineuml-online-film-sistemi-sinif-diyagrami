@@ -1,0 +1,6 @@
+{
+  "name": "CineUML - Online Film Sistemi & Sınıf Diyagramı",
+  "description": "Online film satış, kiralama, kredi ve abonelik sistemi UML Sınıf Diyagramı ve interaktif platform simülatörü. Enes Öztürk imzalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
